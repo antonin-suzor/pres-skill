@@ -1,0 +1,11 @@
+{
+  "name": "pres-skill",
+  "owner": { "name": "antonin-suzor" },
+  "plugins": [
+    {
+      "name": "pres-skill",
+      "source": "./",
+      "description": "Build an interactive presentation page (diagram per option or stage, problems, scenario matrix, single-file export) from a design doc."
+    }
+  ]
+}

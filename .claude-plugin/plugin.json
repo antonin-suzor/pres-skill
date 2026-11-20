@@ -1,0 +1,10 @@
+{
+  "name": "pres-skill",
+  "description": "Turn a design doc or a design discussion into an interactive presentation page: a diagram that changes per option or stage, problem cards, a scenario matrix, and a single-file HTML export.",
+  "version": "0.1.0",
+  "author": { "name": "antonin-suzor" },
+  "homepage": "https://github.com/antonin-suzor/pres-skill",
+  "repository": "https://github.com/antonin-suzor/pres-skill",
+  "license": "MIT",
+  "keywords": ["presentation", "design-review", "diagram", "architecture", "skill"]
+}
